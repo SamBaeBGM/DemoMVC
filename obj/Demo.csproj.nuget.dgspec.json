@@ -1,31 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/bae/Desktop/Term4/Comp4870/presentationEx/demo/DemoMvcApp/DemoMvcApp.csproj": {}
+    "/Users/bae/Desktop/Term4/Comp4870/presentationEx/demo/Demo/Demo.csproj": {}
   },
   "projects": {
-    "/Users/bae/Desktop/Term4/Comp4870/presentationEx/demo/DemoMvcApp/DemoMvcApp.csproj": {
+    "/Users/bae/Desktop/Term4/Comp4870/presentationEx/demo/Demo/Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/bae/Desktop/Term4/Comp4870/presentationEx/demo/DemoMvcApp/DemoMvcApp.csproj",
-        "projectName": "DemoMvcApp",
-        "projectPath": "/Users/bae/Desktop/Term4/Comp4870/presentationEx/demo/DemoMvcApp/DemoMvcApp.csproj",
+        "projectUniqueName": "/Users/bae/Desktop/Term4/Comp4870/presentationEx/demo/Demo/Demo.csproj",
+        "projectName": "Demo",
+        "projectPath": "/Users/bae/Desktop/Term4/Comp4870/presentationEx/demo/Demo/Demo.csproj",
         "packagesPath": "/Users/bae/.nuget/packages/",
-        "outputPath": "/Users/bae/Desktop/Term4/Comp4870/presentationEx/demo/DemoMvcApp/obj/",
+        "outputPath": "/Users/bae/Desktop/Term4/Comp4870/presentationEx/demo/Demo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/bae/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net7.0"
+          "net6.0"
         ],
         "sources": {
           "/usr/local/share/dotnet/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net7.0": {
-            "targetAlias": "net7.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -36,8 +36,8 @@
         }
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",

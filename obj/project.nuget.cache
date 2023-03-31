@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z/r15NN7tIwSqbMb0SfbO+XcKjqT8Twd2PDJM5CAYYGhdTj/6XaAkWPSaJ6IJrcyh5v34ILmYAcyLIIqT4Xbyw==",
+  "dgSpecHash": "CWKC3BunlwQ3NIzc13wezP9ATUU6k5viYe1kNDNwFBG4doQStJSIcm5lRJbd2qiI/p0zWSpQ+Kz15xhgP+tA2A==",
   "success": true,
-  "projectFilePath": "/Users/bae/Desktop/Term4/Comp4870/presentationEx/demo/DemoMvcApp/DemoMvcApp.csproj",
+  "projectFilePath": "/Users/bae/Desktop/Term4/Comp4870/presentationEx/demo/Demo/Demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
